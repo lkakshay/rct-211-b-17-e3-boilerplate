@@ -26,7 +26,7 @@ function App() {
       <br />
       {/* You can pass the required props as mentioned in the questions to
       check if the components are working properly */}
-      <Button />
+      <Button colorScheme="green" size="lg"/>
       <br />
       <Pagination />
     </div>
